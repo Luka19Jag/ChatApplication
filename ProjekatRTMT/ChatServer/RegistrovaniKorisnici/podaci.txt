@@ -1,0 +1,10 @@
+Luka,Luka123,true,www.LukaDrajv.rmt
+Nevenka,Nevenka123,false,www.NevenkaDrajv.rmt
+Janko,Janko1,true,www.JankoDrajv.rmt
+Marko,MarkoMarko,false,www.MarkoDrajv.rmt
+Zarko,ZarkoSifra,false,www.ZarkoDrajv.rmt
+Andrej,12345,true,www.AndrejDrajv.rmt
+Rade,sifra,false,www.RadeDrajv.rmt
+Perke,Perke123,false,www.PerkeDrajv.rmt
+Bojan,Bokan123,true,www.BojanDrajv.rmt
+Ivan,Ivan12345,true,www.IvanDrajv.rmt
